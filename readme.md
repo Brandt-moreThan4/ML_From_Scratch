@@ -1,5 +1,10 @@
 Need to put something here later. 
 
-* Clutering
+Future Models:
+* Naive Bayes
+* Clutering: K Means
+* K Nearest Neighbors
 * Logistic
+* Ridge and Lasso?
+* Support Bector Machine
 * MLP?
